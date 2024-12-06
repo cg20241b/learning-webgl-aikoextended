@@ -1,15 +1,9 @@
 # learning-webgl-aikoextended
 learning-webgl-aikoextended created by GitHub Classroom
 
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cZkyWhKO)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=16083257)
-
 #### Name  : Putri Meyliya Rachmawati
 #### NRP   : 5025221062
 
 # Result
 
 https://github.com/user-attachments/assets/13405292-d285-4aac-8148-6d21a60cf859
-
-
-
